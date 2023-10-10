@@ -1,0 +1,63 @@
+MIN_YEAR;MAX_YEAR;ABBREVIATION;NICKNAME;YEARFOUNDED;CITY;ARENA;ARENACAPACITY;OWNER;GENERALMANAGER;HEADCOACH;DLEAGUEAFFILIATION;TEAM_ID
+1949;2019;ATL;Hawks;1949;Atlanta;State Farm Arena;18729;Tony Ressler;Travis Schlenk;Lloyd Pierce;Erie Bayhawks;1610612737
+1946;2019;BOS;Celtics;1946;Boston;TD Garden;18624;Wyc Grousbeck;Danny Ainge;Brad Stevens;Maine Red Claws;1610612738
+1970;2019;CLE;Cavaliers;1970;Cleveland;Quicken Loans Arena;20562;Dan Gilbert;Koby Altman;John Beilein;Canton Charge;1610612739
+2002;2019;NOP;Pelicans;2002;New Orleans;Smoothie King Center;17791;Tom Benson;Trajan Langdon;Alvin Gentry;No Affiliate;1610612740
+1966;2019;CHI;Bulls;1966;Chicago;United Center;21711;Jerry Reinsdorf;Gar Forman;Jim Boylen;Windy City Bulls;1610612741
+1980;2019;DAL;Mavericks;1980;Dallas;American Airlines Center;19200;Mark Cuban;Donnie Nelson;Rick Carlisle;Texas Legends;1610612742
+1976;2019;DEN;Nuggets;1976;Denver;Pepsi Center;19099;Stan Kroenke;Tim Connelly;Michael Malone;No Affiliate;1610612743
+1946;2019;GSW;Warriors;1946;Golden State;Chase Center;19596;Joe Lacob;Bob Myers;Steve Kerr;Santa Cruz Warriors;1610612744
+1967;2019;HOU;Rockets;1967;Houston;Toyota Center;18104;Tilman Fertitta;Daryl Morey;Mike D'Antoni;Rio Grande Valley Vipers;1610612745
+1970;2019;LAC;Clippers;1970;Los Angeles;Staples Center;19060;Steve Ballmer;Michael Winger;Doc Rivers;Agua Caliente Clippers of Ontario;1610612746
+1948;2019;LAL;Lakers;1948;Los Angeles;Staples Center;19060;Jerry Buss Family Trust;Rob Pelinka;Frank Vogel;South Bay Lakers;1610612747
+1988;2019;MIA;Heat;1988;Miami;AmericanAirlines Arena;19600;Micky Arison;Pat Riley;Erik Spoelstra;Sioux Falls Skyforce;1610612748
+1968;2019;MIL;Bucks;1968;Milwaukee;Fiserv Forum;17500;Wesley Edens &Â Marc Lasry;Jon Horst;Mike Budenholzer;Wisconsin Herd;1610612749
+1989;2019;MIN;Timberwolves;1989;Minnesota;Target Center;19356;Glen Taylor;Scott Layden;Ryan Saunders;Iowa Wolves;1610612750
+1976;2019;BKN;Nets;1976;Brooklyn;Barclays Center;19000;Joe Tsai;Sean Marks;Kenny Atkinson;Long Island Nets;1610612751
+1946;2019;NYK;Knicks;1946;New York;Madison Square Garden;19763;Cablevision (James Dolan);Steve Mills;David Fizdale;Westchester Knicks;1610612752
+1989;2019;ORL;Magic;1989;Orlando;Amway Center;20000;Rick DeVos;John Hammond;Steve Clifford;Lakeland Magic;1610612753
+1976;2019;IND;Pacers;1976;Indiana;Bankers Life Fieldhouse;18345;Herb Simon;Kevin Pritchard;Nate McMillan;Fort Wayne Mad Ants;1610612754
+1949;2019;PHI;76ers;1949;Philadelphia;Wells Fargo Center;19500;Joshua Harris;Elton Brand;Brett Brown;Delaware Blue Coats;1610612755
+1968;2019;PHX;Suns;1968;Phoenix;Talking Stick Resort Arena;18422;Robert Sarver;James Jones;Monty Williams;Northern Arizona Suns;1610612756
+1970;2019;POR;Trail Blazers;1970;Portland;Moda Center;19980;Paul Allen;Neil Olshey;Terry Stotts;No Affiliate;1610612757
+1948;2019;SAC;Kings;1948;Sacramento;Golden 1 Center;17500;Vivek Ranadive;Vlade Divac;Luke Walton;Stockton Kings;1610612758
+1976;2019;SAS;Spurs;1976;San Antonio;AT&T Center;18694;Peter Holt;Brian Wright;Gregg Popovich;Austin Spurs;1610612759
+1967;2019;OKC;Thunder;1967;Oklahoma City;Chesapeake Energy Arena;19163;Clay Bennett;Sam Presti;Billy Donovan;Oklahoma City Blue;1610612760
+1995;2019;TOR;Raptors;1995;Toronto;Scotiabank Arena;19800;Maple Leaf Sports and Entertainment;Masai Ujiri;Nick Nurse;Raptors 905;1610612761
+1974;2019;UTA;Jazz;1974;Utah;Vivint Smart Home Arena;20148;Greg Miller;Dennis Lindsey;Quin Snyder;Salt Lake City Stars;1610612762
+1995;2019;MEM;Grizzlies;1995;Memphis;FedExForum;18119;Robert Pera;Zach Kleiman;Taylor Jenkins;Memphis Hustle;1610612763
+1961;2019;WAS;Wizards;1961;Washington;Capital One Arena;20647;Ted Leonsis;Tommy Sheppard;Scott Brooks;Capital City Go-Go;1610612764
+1948;2019;DET;Pistons;1948;Detroit;Little Caesars Arena;21000;Tom Gores;Ed Stefanski;Dwane Casey;Grand Rapids Drive;1610612765
+1988;2019;CHA;Hornets;1988;Charlotte;Spectrum Center;19026;Michael Jordan;Mitch Kupchak;James Borrego;Greensboro Swarm;1610612766
+1949;1950;AND;Packers ;1949;Anderson;;;;;;;1610612767
+1947;1953;BAL;Bullets ;1947;Baltimore;;;;;;;1610612768
+1970;1978;BUF;Braves;1970;Buffalo;;;;;;;1610612769
+1974;1997;CAP;Bullets;1974;Capital;;;;;;;1610612770
+1961;1962;CHP;Packers;1961;Chicago;;;;;;;1610612771
+1946;1950;CHS;Stags ;1946;Chicago;;;;;;;1610612772
+1962;1963;CHZ;Zephyrs;1962;Chicago;;;;;;;1610612773
+1957;1972;CIN;Royals;1957;Cincinnati;;;;;;;1610612774
+1948;1957;FTW;Pistons;1948;Fort Wayne;;;;;;;1610612775
+1959;1953;INO;Olympians;1959;Indianapolis;;;;;;;1610612776
+1949;1985;KCK;Kings;1949;Kansas City;;;;;;;1610612777
+1951;1956;MLH;Hawks;1951;Milwaukee;;;;;;;1610612778
+1947;1960;MNL;Lakers;1947;Mineapolis;;;;;;;1610612779
+1977;2012;NJN;Nets;1977;New jersey;;;;;;;1610612780
+2002;2013;NOH;Hornets;2002;New Orleans;;;;;;;1610612781
+1974;1979;NOJ;Jazz;1974;New Orleans;;;;;;;1610612782
+1946;1962;PHW;Warriors;1946;Philadelphia;;;;;;;1610612783
+1948;1957;ROC;Royals;1948;Rochester;;;;;;;1610612784
+1978;1984;SDC;Clippers;1978;San Diego;;;;;;;1610612785
+1967;1970;SDR;Rockets;1967;San Diego;;;;;;;1610612786
+1967;2008;SEA;SuperSonics;1967;Seattle;;;;;;;1610612787
+1962;1971;SFW;Warriors;1962;San Francisco;;;;;;;1610612788
+1946;1951;SHE;Redskins ;1946;Sheboygan;;;;;;;1610612789
+1946;1950;STB;Bombers ;1946;St. Louis;;;;;;;1610612790
+1955;1968;STL;Hawks;1955;St. Louis;;;;;;;1610612791
+1946;1963;SYR;Nationals;1946;Syracuse;;;;;;;1610612792
+1946;1951;TRI;Blackhawks;1946;Tri-Cities;;;;;;;1610612793
+1995;2001;VAN;Grizzlies;1995;Vancouver;;;;;;;1610612794
+1946;1947;WAT;Hawks ;1946;Waterloo;;;;;;;1610612795
+1974;1997;WSB;Bullets;1974;Washington;;;;;;;1610612796
+1946;1951;WSC;Capitols ;1946;Washington;;;;;;;1610612797
+;;TOT;;;TOTAL_SEASON;;;;;;;1610612798
